@@ -20,7 +20,7 @@ Our aim is to combine natural formulations with scalable technology, enabling re
 
 This GitHub organization may include:
 
-- Source code for NaturalSefa.com and related platforms  
+- Source code for [naturalsefa.com](https://naturalsefa.com) and related platforms  
 - Product research documentation and ingredient studies  
 - Internal automation tools for production, fulfillment and analytics  
 - Future open-source projects and shared utilities
@@ -31,11 +31,11 @@ Access may be fully or partially public depending on development stage.
 
 ## Official Resources
 
-- Website: https://naturalsefa.com  
-- Website 2: https://naturalsefaa.com  
+- Website: [naturalsefa.com](https://naturalsefa.com) 
+- Website 2: [naturalsefaa.com](https://naturalsefaa.com)  
 - Email: support@naturalsefa.com  
-- Facebook: https://www.facebook.com/naturalsefa.bd  
-- Tiktok: https://www.tiktok.com/@naturalsefa
+- Facebook: [facebook.com/naturalsefabd](https://www.facebook.com/naturalsefabd)  
+- Tiktok: [tiktok.com/@naturalsefa](https://www.tiktok.com/@naturalsefa)
 
 ---
 
