@@ -31,9 +31,11 @@ Access may be fully or partially public depending on development stage.
 
 ## Official Resources
 
-Website: https://naturalsefa.com  
-Email: support@naturalsefa.com  
-Facebook: https://www.facebook.com/naturalsefa.bd
+- Website: https://naturalsefa.com  
+- Website 2: https://naturalsefaa.com  
+- Email: support@naturalsefa.com  
+- Facebook: https://www.facebook.com/naturalsefa.bd  
+- Tiktok: https://www.tiktok.com/@naturalsefa
 
 ---
 
